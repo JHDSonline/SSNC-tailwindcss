@@ -1,5 +1,6 @@
 <p>
     <a href="https://tailwindcss.com/" target="_blank">
+      <img id="dnn_dnnLOGO_imgLogo" src="/Portals/0/Logo-solid.png?ver=2017-06-27-150719-987" alt="www.ssctech.com">
       <img alt="Tailwind CSS" width="350" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
     </a><br>
     A utility-first CSS framework for rapidly building custom user interfaces.
